@@ -2,8 +2,6 @@
 import Hero_person from "./assets/images/Hero/person.png";
 
 import figma from "./assets/images/Skills/figma.png";
-import sketch from "./assets/images/Skills/sketch.png";
-import ps from "./assets/images/Skills/ps.png";
 import reactjs from "./assets/images/Skills/react.png";
 import html from "./assets/images/Skills/html-5.png";
 import css from "./assets/images/Skills/css-3.png";
@@ -12,13 +10,12 @@ import jquery from "./assets/images/Skills/jQurery.png";
 import php from "./assets/images/Skills/php.png";
 import sql from "./assets/images/Skills/mysql.png";
 import shopify from "./assets/images/Skills/shopify.png"
-import python from "./assets/images/Skills/python.png";
 
 import services_logo1 from "./assets/images/Services/logo1.png";
 import services_logo2 from "./assets/images/Services/logo2.png";
 import services_logo3 from "./assets/images/Services/logo3.png";
 
-import project1 from "./assets/images/projects/img1.png";
+import project1 from "./assets/images/projects/img3.png";
 import project2 from "./assets/images/projects/img2.png";
 import project3 from "./assets/images/projects/img3.png";
 import person_project from "./assets/images/projects/person.png";
