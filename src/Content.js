@@ -16,7 +16,6 @@ import services_logo2 from "./assets/images/Services/logo2.png";
 import services_logo3 from "./assets/images/Services/logo3.png";
 
 
-import person_project from "./assets/images/projects/person.png";
 
 import man from "./assets/images/Testimonials/man.png";
 import woman from "./assets/images/Testimonials/woman.png";
@@ -151,7 +150,7 @@ export const content = {
   Projects: {
     title: "Projects",
     subtitle: "MY CREATION More than 80",
-    image: person_project,
+    image: "",
     project_content: [
       {
         title: "Gym Website",
