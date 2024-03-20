@@ -153,7 +153,7 @@ export const content = {
   },
   Projects: {
     title: "Projects",
-    subtitle: "MY CREATION More than 80",
+    subtitle: "MY CREATION",
     image: person_project,
     project_content: [
       {
@@ -227,11 +227,6 @@ export const content = {
         text: "+64 22 154 7375",
         icon: MdCall,
         link: "https://wa.me/+64221547375",
-      },
-      {
-        text: "Gurdeep Singh",
-        icon: BsInstagram,
-        link: "https://www.instagram.com/urfav.gurdeep/",
       },
       {
         text: "Gurdeep Singh",
