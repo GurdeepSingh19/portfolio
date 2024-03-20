@@ -31,7 +31,7 @@ import { GrMail } from "react-icons/gr";
 import { MdArrowForward, MdCall } from "react-icons/md";
 import { BsInstagram } from "react-icons/bs";
 import { FaLinkedinIn } from "react-icons/fa";
-import { BiLogoShopify } from "react-icons/bi";
+import { FaShopify } from "react-icons/fa";
 import { TbSmartHome } from "react-icons/tb";
 import { BiUser } from "react-icons/bi";
 import { RiServiceLine, RiProjectorLine } from "react-icons/ri";
@@ -240,7 +240,7 @@ export const content = {
       },
       {
         text: "Shopiy Partner",
-        icon: BiLogoShopify,
+        icon: FaShopify,
         link: "https://www.shopify.com/partners/directory/partner/alliance3",
       },
     ],
