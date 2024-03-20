@@ -13,7 +13,7 @@ import shopify from "./assets/images/Skills/shopify.png"
 
 import services_logo1 from "./assets/images/Services/logo1.png";
 import services_logo2 from "./assets/images/Services/logo2.png";
-import services_logo3 from "./assets/images/Services/logo3.png";
+import services_logo3 from "./assets/images/Services/shopify.png";
 
 import project1 from "./assets/images/MyProjects/img1.png";
 import project2 from "./assets/images/MyProjects/img2.png";
@@ -135,17 +135,17 @@ export const content = {
     service_content: [
       {
         title: "Web Development",
-        para: "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document elying on mean",
+        para: "In the digital world, I'm like a magician crafting websites that captivate and engage. With over 5 years of experience in web development, I've mastered the art of HTML, CSS, and JavaScript, turning ideas into interactive online experiences that leave a lasting impression.",
         logo: services_logo1,
       },
       {
         title: "ui / ux DESIGNING",
-        para: "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document elying on mean",
+        para: "Designing isn't just about making things pretty; it's about creating experiences that people love. With a keen eye for detail and a passion for user-centric design, I specialize in crafting intuitive interfaces that make navigating websites a breeze, ensuring every click feels like a step in the right direction.",
         logo: services_logo2,
       },
       {
-        title: "PhotoShop Editing",
-        para: "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document elying on mean",
+        title: "Shopiy Expert",
+        para: "Unlocking the power of e-commerce is my specialty. As a certified Shopify Expert, I've delved deep into the world of online retail, optimizing storefronts and streamlining the shopping experience. From customizing themes to integrating payment gateways, I've got the tools and expertise to take your Shopify store to the next level.",
         logo: services_logo3,
       },
     ],
