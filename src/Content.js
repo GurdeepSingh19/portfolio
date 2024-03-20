@@ -31,6 +31,7 @@ import { GrMail } from "react-icons/gr";
 import { MdArrowForward, MdCall } from "react-icons/md";
 import { BsInstagram } from "react-icons/bs";
 import { FaLinkedinIn } from "react-icons/fa";
+import { FaShopify } from "react-icons/fa6";
 import { TbSmartHome } from "react-icons/tb";
 import { BiUser } from "react-icons/bi";
 import { RiServiceLine, RiProjectorLine } from "react-icons/ri";
@@ -236,6 +237,11 @@ export const content = {
         text: "Gurdeep Singh",
         icon: FaLinkedinIn,
         link: "https://www.linkedin.com/in/gurdeep-singhnz/",
+      },
+      {
+        text: "Shopiy Partner",
+        icon: FaShopify,
+        link: "https://www.shopify.com/partners/directory/partner/alliance3",
       },
     ],
   },
