@@ -175,21 +175,9 @@ export const content = {
     testimonials_content: [
       {
         review:
-          "“Incredible service.  As a first time business owner, who had only prior experience with eBay, I really wasn't sure what I was embarking on in opening my own website store.  Shopify sent out a total of 5 website builders and the price and services Alliance was offering meet my requirements.  From my first call and throughout the project to its final days, Alliance has stood with me in making my website store ownership a reality.  If you are looking for an affordable, caring, and knowledgeable company to design your website. Alliance is your solution.”",
-        img: man,
-        name: "The Atomic Movie Store",
-      },
-      {
-        review:
           "“We neede help fixing some bugs on an existing custom app that w previous developer had built for us. Gurdeep had excellent communication around the project and was both very knowlegeble and prompt at responding to our requests, and also went above and beyond. Highly recommend.”",
         img: woman,
         name: "Hotmilk Lingerie NZ",
-      },
-      {
-        review:
-          "“Quick to respond to my request for assistance and efficient at completely the job! Great communication and a pleasure to deal with. Will absolutely use Alliance IT again for any future needs and will definitely be recommending them to fellow small business owners.”",
-        img: woman,
-        name: "Sunday Seoul Limited",
       },
       {
         review:
@@ -199,13 +187,19 @@ export const content = {
       },
       {
         review:
+          "“Quick to respond to my request for assistance and efficient at completely the job! Great communication and a pleasure to deal with. Will absolutely use Alliance IT again for any future needs and will definitely be recommending them to fellow small business owners.”",
+        img: woman,
+        name: "Sunday Seoul Limited",
+      },
+      {
+        review:
           "“quickly identified and corrected the coding issue for us. will be inquiring for more help from Alliance in the future when needed!!”",
         img: man,
         name: "Vette Lights",
       },
       {
         review:
-          "“Gurdeep is by far the best developer I have worked with! I started working with him 2 years ago and still counting. He is reliable, always answers quickly, and cares about my projects. He always has something to recommend or an idea for you! 100% recommended! If you are looking for affordable, excellent, and quick service, Gurdeep is your guy!”",
+          "“Gurdeep is by far the best developer I have worked with! I started working with him 2 years ago and still counting. He is reliable, always answers quickly, and cares about my projects. He always has something to recommend or an idea for you! 100% recommended! If you are looking for affordable...”",
         img: man,
         name: "Lovbox Shop",
       },
