@@ -1,8 +1,8 @@
 import React from 'react';
 
 const FileDownloadButton = () => {
-  const fileUrl = '../assets/Resume/Gurdeep_Singh_CV.pdf';
-  const fileName = 'gurdeep_singh_resume.pdf'; // You can dynamically set the file name here
+  const fileUrl = '/src/assets/Resume/Gurdeep_Singh_CV.pdf';
+  const fileName = 'Gurdeep_Singh_CV.pdf'; // You can dynamically set the file name here
 
   const handleDownload = () => {
     const anchor = document.createElement('a');
