@@ -12,7 +12,7 @@ const Projects = () => {
   const { Projects } = content;
   return (
     <section className="bg-bg_light_primary" id="projects">
-      <div className="md:container px-5 pt-14 min-h-screen flex flex-col justify-between">
+      <div className="md:container px-5 pt-14 min-h-fit xl:min-h-screen flex flex-col justify-between">
         <div>
           <h2 className="title" data-aos="fade-down">
             {Projects.title}
@@ -36,7 +36,7 @@ const Projects = () => {
             data-aos="fade-left"
             spaceBetween={20}
             modules={[Pagination]}
-            className="rounded-3xl pb-16 max-w-full drop-shadow-primary self-start"
+            className="rounded-3xl pb-16 max-w-xs sm:max-w-md drop-shadow-primary self-start"
           >
             {Projects.project_content.map((content, i) => (
               <SwiperSlide
