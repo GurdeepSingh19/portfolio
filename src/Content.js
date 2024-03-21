@@ -235,11 +235,6 @@ export const content = {
         icon: FaLinkedinIn,
         link: "https://www.linkedin.com/in/gurdeep-singhnz/",
       },
-      {
-        text: "Shopiy Partner",
-        icon: FaShopify,
-        link: "https://www.shopify.com/partners/directory/partner/alliance3",
-      },
     ],
   },
   Footer: {
