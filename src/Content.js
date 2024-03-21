@@ -25,6 +25,7 @@ import woman from "./assets/images/Testimonials/woman.png";
 
 import Hireme_person from "./assets/images/Hireme/person.png";
 import Hireme_person2 from "./assets/images/Hireme/person.png";
+import resume from "./assets/resume/Gurdeep_Singh_CV.pdf";
 
 // import icons from react-icons
 import { GrMail } from "react-icons/gr";
@@ -211,6 +212,7 @@ export const content = {
     subtitle: "Resume",
     image1: Hireme_person,
     image2: Hireme_person2,
+    resume: resume,
     para: "Unlock the gateway to my professional journey! Click the button below to get your hands on my resume and discover the skills and experiences that make me the perfect fit for your team.",
     btnText: "Resume",
   },

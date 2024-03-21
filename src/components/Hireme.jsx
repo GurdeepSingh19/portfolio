@@ -34,7 +34,7 @@ const Hireme = () => {
           >
             <p className="leading-7">{Hireme.para}</p>
             <br />
-            <a href="/src/assets/resume/Gurdeep_Singh_CV.pdf" className="btn bg-dark_primary text-white">
+            <a href={Hireme.resume} target="_blank" download className="btn bg-dark_primary text-white">
             {Hireme.btnText}
             </a>
           </div>
