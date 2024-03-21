@@ -88,7 +88,7 @@ export const content = {
         logo: html,
       },
       {
-        name: "CSS js",
+        name: "CSS",
         para: "Lorem ipsum text  dummy",
         logo: css,
       },
@@ -183,19 +183,18 @@ export const content = {
       },
       {
         review:
-          "“Efficient, organized, and thorough. Great agency to work with.”",
+          "“Efficient, organized, and thorough. Great person to work with.”",
         img: man,
         name: "ListBurst",
       },
       {
-        review:
-          "“Quick to respond to my request for assistance and efficient at completely the job! Great communication and a pleasure to deal with. Will absolutely use Alliance IT again for any future needs and will definitely be recommending them to fellow small business owners.”",
+        review: "Quick to respond to my request for assistance and efficient at completing the job! Great communication and a pleasure to deal with. Will absolutely go with Gurdeep again for any future needs and will definitely be recommending him to fellow small business owners."
         img: woman,
         name: "Sunday Seoul Limited",
       },
       {
         review:
-          "“quickly identified and corrected the coding issue for us. will be inquiring for more help from Alliance in the future when needed!!”",
+          "“quickly identified and corrected the coding issue for us. will be inquiring for more help from Gurdeep in the future when needed!!”",
         img: man,
         name: "Vette Lights",
       },
