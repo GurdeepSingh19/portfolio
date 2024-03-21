@@ -214,7 +214,7 @@ export const content = {
     image2: Hireme_person2,
     resume: resume,
     para: "Unlock the gateway to my professional journey! Click the button below to get your hands on my resume and discover the skills and experiences that make me the perfect fit for your team.",
-    btnText: "Resume",
+    btnText: "Download Resume",
   },
   Contact: {
     title: "Contect Me",
