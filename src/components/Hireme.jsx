@@ -1,6 +1,5 @@
 import { content } from "../Content";
 
-import FileDownloadButton from "./DownloadButton";
 
 const Hireme = () => {
   const { Hireme } = content;
@@ -35,9 +34,9 @@ const Hireme = () => {
           >
             <p className="leading-7">{Hireme.para}</p>
             <br />
-            <FileDownloadButton>
-              
-            </FileDownloadButton>
+            <a href="/src/assets/resume/Gurdeep_Singh_CV.pdf" className="btn bg-dark_primary text-white">
+            {Hireme.btnText}
+            </a>
           </div>
         </div>
       </div>
