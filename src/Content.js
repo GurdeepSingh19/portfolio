@@ -25,7 +25,7 @@ import woman from "./assets/images/Testimonials/woman.png";
 
 import Hireme_person from "./assets/images/Hireme/person.png";
 import Hireme_person2 from "./assets/images/Hireme/person.png";
-import resume from "./assets/resume/Gurdeep_Singh_CV.pdf";
+import resume from "./components/Gurdeep_Singh_Resume.pdf";
 
 // import icons from react-icons
 import { GrMail } from "react-icons/gr";
