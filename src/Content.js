@@ -136,14 +136,14 @@ export const content = {
     intro:"I'm Gurdeep Singh, and I'm excited to share a bit about myself with you. I love making websites that people enjoy using. Over the past 5 years, I've gotten pretty good at it, working with stuff like HTML, CSS, JavaScript, React, Liquid, and Shopify. Being a Shopify Partner has taught me a lot about making online stores better for shoppers and businesses alike. Whether it's tweaking how things look, coming up with cool new ideas, or making sure everything works smoothly, I take pride in doing a great job.",
     service_content: [
       {
-        title: "Web Development",
-        para: "In the digital world, I'm like a magician crafting websites that captivate and engage. With over 5 years of experience in web development, I've mastered the art of HTML, CSS, and JavaScript, turning ideas into interactive online experiences that leave a lasting impression.",
-        logo: services_logo1,
+        title: "Frontend Development",
+        para: "In the world of web development, I excel at crafting engaging user interfaces using HTML, CSS, and JavaScript. With a knack for enhancing user experiences, I specialize in frameworks like React, along with jQuery and Ajax, to bring websites to life with seamless interactivity and dynamic content.",
+        logo: services_logo2,
       },
       {
-        title: "ui / ux DESIGNING",
-        para: "Designing isn't just about making things pretty; it's about creating experiences that people love. With a keen eye for detail and a passion for user-centric design, I specialize in crafting intuitive interfaces that make navigating websites a breeze, ensuring every click feels like a step in the right direction.",
-        logo: services_logo2,
+        title: "Backend Development",
+        para: "Behind the scenes, I'm a proficient backend developer, leveraging PHP and MySQL to build robust server-side applications and manage databases efficiently. From handling user authentication to processing data and generating dynamic content, I ensure that the backend of websites operates smoothly and securely.",
+        logo: services_logo1,
       },
       {
         title: "Shopiy Expert",
