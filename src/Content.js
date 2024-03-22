@@ -188,13 +188,14 @@ export const content = {
         name: "ListBurst",
       },
       {
-        review: "Quick to respond to my request for assistance and efficient at completing the job! Great communication and a pleasure to deal with. Will absolutely go with Gurdeep again for any future needs and will definitely be recommending him to fellow small business owners."
+        review:
+          "“Quick to respond to my request for assistance and efficient at completely the job! Great communication and a pleasure to deal with. Will absolutely reach out to Gurdeep again for any future needs and will definitely be recommending them to fellow small business owners.”",
         img: woman,
         name: "Sunday Seoul Limited",
       },
       {
         review:
-          "“quickly identified and corrected the coding issue for us. will be inquiring for more help from Gurdeep in the future when needed!!”",
+          "“quickly identified and corrected the coding issue for us. will be inquiring for more help from gurdeep in the future when needed!!”",
         img: man,
         name: "Vette Lights",
       },
