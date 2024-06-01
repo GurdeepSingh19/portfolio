@@ -217,7 +217,7 @@ export const content = {
     btnText: "Download Resume",
   },
   Contact: {
-    title: "Contect Me",
+    title: "Contact Me",
     subtitle: "GET IN TOUCH",
     social_media: [
       {
