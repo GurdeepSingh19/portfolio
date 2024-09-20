@@ -18,6 +18,12 @@ import services_logo3 from "./assets/images/Services/shopify.png";
 import project1 from "./assets/images/MyProjects/img1.png";
 import project2 from "./assets/images/MyProjects/img2.png";
 import project3 from "./assets/images/MyProjects/img3.png";
+import project1 from "./assets/images/MyProjects/DSLab.png";
+import project2 from "./assets/images/MyProjects/hotmilklingerie.png";
+import project3 from "./assets/images/MyProjects/DailyRobust.png";
+import project1 from "./assets/images/MyProjects/byorianacollection.png";
+import project2 from "./assets/images/MyProjects/SundayRitual.png";
+import project3 from "./assets/images/MyProjects/teslabiohealing.png";
 import person_project from "./assets/images/MyProjects/person.png";
 
 import man from "./assets/images/Testimonials/man.png";
@@ -158,17 +164,29 @@ export const content = {
     image: person_project,
     project_content: [
       {
-        title: "Gym Website",
-        image: project1,
+        title: "DSLab",
+        image: project4,
       },
       {
-        title: "Social Media web",
-        image: project2,
+        title: "Hotmilk Lingerie",
+        image: project5,
       },
       {
-        title: "Creative Website",
-        image: project3,
+        title: "DailyRobust",
+        image: project6,
       },
+      {
+        title: "By Oriana Collection",
+        image: project7,
+      },
+      {
+        title: "Sunday Seoul",
+        image: project8,
+      },
+      {
+        title: "Tesla BioHealing",
+        image: project9,
+      }
     ],
   },
   Testimonials: {
