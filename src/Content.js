@@ -18,12 +18,12 @@ import services_logo3 from "./assets/images/Services/shopify.png";
 import project1 from "./assets/images/MyProjects/img1.png";
 import project2 from "./assets/images/MyProjects/img2.png";
 import project3 from "./assets/images/MyProjects/img3.png";
-import project1 from "./assets/images/MyProjects/DSLab.png";
-import project2 from "./assets/images/MyProjects/hotmilklingerie.png";
-import project3 from "./assets/images/MyProjects/DailyRobust.png";
-import project1 from "./assets/images/MyProjects/byorianacollection.png";
-import project2 from "./assets/images/MyProjects/SundayRitual.png";
-import project3 from "./assets/images/MyProjects/teslabiohealing.png";
+import project4 from "./assets/images/MyProjects/DSLab.png";
+import project5 from "./assets/images/MyProjects/hotmilklingerie.png";
+import project6 from "./assets/images/MyProjects/DailyRobust.png";
+import project7 from "./assets/images/MyProjects/byorianacollection.png";
+import project8 from "./assets/images/MyProjects/SundayRitual.png";
+import project9 from "./assets/images/MyProjects/teslabiohealing.png";
 import person_project from "./assets/images/MyProjects/person.png";
 
 import man from "./assets/images/Testimonials/man.png";
