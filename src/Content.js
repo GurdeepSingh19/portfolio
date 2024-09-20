@@ -166,26 +166,32 @@ export const content = {
       {
         title: "DSLab",
         image: project4,
+        link:"https://dslaboratories.com/"
       },
       {
         title: "Hotmilk Lingerie",
         image: project5,
+        link:"https://www.hotmilklingerie.co.nz/"
       },
       {
         title: "DailyRobust",
         image: project6,
+        link:"https://www.dailyrobust.com/"
       },
       {
         title: "By Oriana Collection",
         image: project7,
+        link:"https://byorianacollection.com/"
       },
       {
         title: "Sunday Seoul",
         image: project8,
+        link:"https://sundayseoul.shop/"
       },
       {
         title: "Tesla BioHealing",
         image: project9,
+        link:"https://www.teslabiohealing.com/"
       }
     ],
   },
