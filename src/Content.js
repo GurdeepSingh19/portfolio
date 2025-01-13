@@ -4,7 +4,7 @@ import Hero_person from "./assets/images/Hero/person.png";
 import figma from "./assets/images/Skills/figma.png";
 import reactjs from "./assets/images/Skills/react.png";
 import html from "./assets/images/Skills/html-5.png";
-import css from "./assets/images/Skills/css-3.png";
+import css from "./assets/images/Skills/css-3.png"; 
 import javascript from "./assets/images/Skills/java-script.png";
 import jquery from "./assets/images/Skills/jQurery.png";
 import php from "./assets/images/Skills/php.png";
