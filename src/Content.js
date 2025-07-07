@@ -79,7 +79,7 @@ export const content = {
         text: "Years of Experinse in Web development",
       },
       {
-        count: "80+",
+        count: "200+",
         text: "Projects Worked in my career",
       },
     ],
