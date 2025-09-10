@@ -139,7 +139,7 @@ export const content = {
   services: {
     title: "Introduction",
     subtitle: "Overview",
-    intro:"I'm Gurdeep Singh, and I'm excited to share a bit about myself with you. I love making websites that people enjoy using. Over the past 5 years, I've gotten pretty good at it, working with stuff like HTML, CSS, JavaScript, React, Liquid, and Shopify. Being a Shopify Partner has taught me a lot about making online stores better for shoppers and businesses alike. Whether it's tweaking how things look, coming up with cool new ideas, or making sure everything works smoothly, I take pride in doing a great job.",
+    intro:"I'm Gurdeep Singh, and I'm excited to share a bit about myself with you. I love making websites that people enjoy using. Over the past 7 years, I've gotten pretty good at it, working with stuff like HTML, CSS, JavaScript, React, Liquid, and Shopify. Being a Shopify Partner has taught me a lot about making online stores better for shoppers and businesses alike. Whether it's tweaking how things look, coming up with cool new ideas, or making sure everything works smoothly, I take pride in doing a great job.",
     service_content: [
       {
         title: "Frontend Development",
