@@ -10,6 +10,9 @@ import jquery from "./assets/images/Skills/jQurery.png";
 import php from "./assets/images/Skills/php.png";
 import sql from "./assets/images/Skills/mysql.png";
 import shopify from "./assets/images/Skills/shopify.png"
+import node from "./assets/images/Skills/node.png"
+import vercel from "./assets/images/Skills/vercel.png"
+import render from "./assets/images/Skills/render.png"
 
 import services_logo1 from "./assets/images/Services/logo1.png";
 import services_logo2 from "./assets/images/Services/logo2.png";
@@ -119,6 +122,11 @@ export const content = {
         logo: shopify,
       },
       {
+        name: "Node js",
+        para: "Lorem ipsum text  dummy",
+        logo: node,
+      },
+      {
         name: "PHP",
         para: "Lorem ipsum text  dummy",
         logo: php,
@@ -132,6 +140,16 @@ export const content = {
         name: "Figma",
         para: "Lorem ipsum text  dummy",
         logo: figma,
+      },
+      {
+        name: "Vercel",
+        para: "Lorem ipsum text  dummy",
+        logo: vercel,
+      },
+      {
+        name: "Render",
+        para: "Lorem ipsum text  dummy",
+        logo: render,
       },
     ],
     icon: MdArrowForward,
