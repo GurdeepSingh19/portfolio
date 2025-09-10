@@ -32,7 +32,7 @@ const App = () => {
       <Contact />
       <footer className="p-3 text-center">
         <h6 className="mb-3">Gurdeep Singh</h6>
-        <div style="opacity:0">
+        <div className="noopacity">
           <a href="alliance-it-solutions.com">Alliance IT Solutions</a>
         </div>
       </footer>
