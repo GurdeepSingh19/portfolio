@@ -47,6 +47,20 @@ import { BiUser } from "react-icons/bi";
 import { RiServiceLine, RiProjectorLine } from "react-icons/ri";
 import { MdOutlinePermContactCalendar } from "react-icons/md";
 
+function getExperienceYears(startYear, startMonth) {
+  const startDate = new Date(startYear, startMonth);
+  const currentDate = new Date();
+
+  let years = currentDate.getFullYear() - startDate.getFullYear();
+  const monthDiff = currentDate.getMonth() - startDate.getMonth();
+
+  if (monthDiff < 0) {
+    years--;
+  }
+
+  return `${years}+`;
+}
+
 export const content = {
   nav: [
     {
@@ -78,7 +92,7 @@ export const content = {
     image: Hero_person,
     hero_content: [
       {
-        count: "7+",
+        count: getExperienceYears(2017, 11),
         text: "Years of Experinse in Web development",
       },
       {
