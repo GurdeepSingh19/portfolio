@@ -85,7 +85,7 @@ export const content = {
     },
   ],
   hero: {
-    title: "Web Developer",
+    title: "Full Stack Web Developer",
     firstName: "GURDEEP",
     LastName: "SINGH",
     btnText: "Hire Me",
