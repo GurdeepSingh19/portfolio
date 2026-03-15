@@ -13,6 +13,7 @@ import shopify from "./assets/images/Skills/shopify.png"
 import node from "./assets/images/Skills/node.png"
 import vercel from "./assets/images/Skills/vercel.png"
 import render from "./assets/images/Skills/render.png"
+import webflow from "./assets/images/Skills/webflow.png"
 
 import services_logo1 from "./assets/images/Services/logo1.png";
 import services_logo2 from "./assets/images/Services/logo2.png";
@@ -146,14 +147,14 @@ export const content = {
         logo: php,
       },
       {
+        name: "Webflow",
+        para: "Lorem ipsum text  dummy",
+        logo: webflow,
+      },
+      {
         name: "My SQL",
         para: "Lorem ipsum text  dummy",
         logo: sql,
-      },
-      {
-        name: "Figma",
-        para: "Lorem ipsum text  dummy",
-        logo: figma,
       },
       {
         name: "Vercel",
